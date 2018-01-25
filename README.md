@@ -1,1 +1,1 @@
-https://github.com/hchristensen14/readme.md/helloLuke.c.git
+https://github.com/hchristensen14/readme.md/helloLuke.git
